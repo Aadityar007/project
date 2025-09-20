@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Kisan Mitra AI",
+  "description": "An AI-powered advisory system for farmers, providing real-time information on pests, farming techniques, weather, market prices, and a direct communication channel to government authorities. Supports multiple Indian languages.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
